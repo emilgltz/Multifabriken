@@ -2,23 +2,23 @@
 ## Instruktioner
 ### Konsolapplikationen kräver att din dator har .NET SDK installerat
 1. Klona ner repot från den nuvarande git-sidan
-2. Öppna mappen "Multifabriken" med en terminal
+2. Öppna mappen "Multifabriken" via en terminal
 3. Starta applikltionen genom att skriva in kommandot `dotnet run` i terminalen
 4.Följ sedan applikationens instruktioner
 
-## Bakgrundsbeskrivning till uppgiften 
+## Bakgrundsbeskrivning till uppgiften "Multifabriken"
 Utveckla en konsolapplikation för bolaget Multifabriken AB. De vill skapa en konsolapplikation för sina kunder där man kan välja att beställa nya produkter från deras fabrik. Fabriken kan producera bilar, godis, snören eller tofu. Via inmatning av beställning ska nya produkter skapas av den valda typen och samtliga produkter man beställt ska kunna listas av användaren.
 
 
 ## Teknologier
 * Ramverk: .NET6 Core
-* Applikationstyp: Command line arguments
+* Applikationstyp: Konsolapplikation (Command line arguments)
 * Designmönster: Objektorienterad programmering (OOP)
 * Programmeringsspråk: C#
 
 
 ## Kravspecifikation
-|Kravnummer|Uppfyllt|Beskrivning|
+|Kravnummer|Uppfyllt|Kravbeskrivning|
 |-------|------|------|
 |**1**  |**Ja**| *Lösningen ska bestå av en konsolapplikation skriven i C# som är körbar med .NET Core* |
 |**2**  |**Ja**| *När man startar programmet ska man mötas av en meny samt en kort introduktion till programmet* |
