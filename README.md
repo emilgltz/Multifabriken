@@ -18,8 +18,8 @@ Utveckla en konsolapplikation för bolaget Multifabriken AB. De vill skapa en ko
 
 
 ## Kravspecifikation
- |Krav|Uppfyllt|
- |---|---|---|
+|Krav|Uppfyllt|
+|-------|------|
 |**1**  |**Ja**| *Lösningen ska bestå av en konsolapplikation skriven i C# som är körbar med .NET Core*
 |**2**  |**Ja**| *När man startar programmet ska man mötas av en meny samt en kort introduktion till programmet* -
 |**3**  |**Ja**| *Man ska kunna göra ett val i menyn med vilken typ av produkt man vill beställa, om man vill lista alla  - produkter man beställt, eller om man vill avsluta programmet*
